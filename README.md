@@ -7,4 +7,4 @@
                                                                
 ```
 
-* [Expl∅its](github.com/voidvarov/Exploits)
+* [Exploits](https://github.com/voidvarov/Exploits)
