@@ -5,8 +5,7 @@
   \/   `|..|'  ||  `|..||.   \/   `|..||. .||.   `|..|'   \/
                 76 6F 69 64 76 61 72 6F 76                                                                
 ```
-
-* [My Exploits](https://github.com/voidvarov/Exploits)
+## [My Exploits](https://github.com/voidvarov/Exploits)
 
 
 <h1 align="center">Hi 👋</h1>
